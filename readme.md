@@ -1,3 +1,8 @@
+# Installing or running java application
+1. First go to release section on github repository then
+2. Install SudokuSetup.exe file on your machine to run the application.
+   
+
 # Introduction of Project
 
 1. This is the introductory session of a minor project called Sudoku Solver.
